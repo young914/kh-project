@@ -110,16 +110,7 @@ ol, ul {
     font-size:14px
   }
   
-  #juso{  /*주소 검색 */
-      position: absolute;
-      color:white;
-      background-color: rgb(254,116,119);
-      left: 159px;
-      width: 332px;
-      height: 44px;
-      font-size: 14px;
-      top: 8px;
-  }
+
   
     #adressNo{    /*주소검색 */
       display: inline-block;
@@ -133,18 +124,7 @@ ol, ul {
       background-size: 25px 24px;
       padding-top: 7px;
     }
-  
     
-  
-  
-  
-  
-  
-  
-  
-  
-    
-  
     #content .form form .standard{  /*배송지에 따라 상품 정보가 달라질수 있습니다 */
       position:relative;
     }
@@ -346,6 +326,8 @@ ol, ul {
     .grayFont {
       color: gray;
     }
+
+    .redFont { color: rgb(254,116,119);}
 
     #addrInfo {
       text-align: center;
